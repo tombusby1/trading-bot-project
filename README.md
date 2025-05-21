@@ -38,6 +38,7 @@ This bot connects to an exchange to fetch 5-minute OHLCV data, computes technica
 - ✅ Log all data points and bot actions
 - ✅ Email alerts for trade execution & exceptions
 - ✅ Convert `.log` to `.csv` via script for visualization
+- 📊 Trade futures (in progress)
 - 🧪 Backtest mode (in progress)
 - 📊 SwiftUI dashboard to track bot data (in progress)
 
