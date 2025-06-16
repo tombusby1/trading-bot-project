@@ -12,7 +12,7 @@ This bot connects to an exchange to fetch 5-minute OHLCV data, computes technica
 
 ---
 
-## Update as of: Monday 16th June 2025
+## 🔄 Update as of: Monday 16th June 2025
 
 It has been a couple of weeks letting the bot run in the background and gather data from the bot. The next steps will be to analyse the data, and focus on the UI for the iOS companion app
 
